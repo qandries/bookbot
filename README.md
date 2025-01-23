@@ -1,2 +1,3 @@
 # bookbot
-BookBot is my first project!
+
+It's counting the number of characters in a text
